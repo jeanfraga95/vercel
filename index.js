@@ -20,7 +20,7 @@ const SERVERS = {
 };
 
 // VPS padrão caso o path não bata com nenhuma rota acima
-const DEFAULT_SERVER = { host: "IP-OU-DOMINIO-VPS-PADRAO", port: "443" };
+const DEFAULT_SERVER = { host: "163.176.239.220", port: "443" };
 // ─────────────────────────────────────────────────────────
 
 function resolveServer(reqUrl) {
