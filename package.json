@@ -1,0 +1,9 @@
+{
+  "name": "xray-vercel-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "XHTTP/VLESS proxy via Vercel to VPS",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
