@@ -10,8 +10,6 @@ export const config = {
 // Configuração dos servidores
 const SERVERS = {
   "/": { host: "163.176.239.220", port: "443" },
-  "/us": { host: "IP-OU-DOMINIO-VPS-US", port: "443" },
-  "/jp": { host: "IP-OU-DOMINIO-VPS-JP", port: "443" },
   // adicione mais...
 };
 
