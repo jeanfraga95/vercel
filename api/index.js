@@ -15,7 +15,7 @@ export const config = {
 // A chave é o path que o cliente vai usar no link VLESS.
 // Use port: 443 para HTTPS ou port: 80 para HTTP no VPS.
 const SERVERS = {
-  "/": { host: "163.176.239.220", port: 443 },
+  "/cloudjf2": { host: "163.176.239.220", port: 443 },
   "/us": { host: "IP-OU-DOMINIO-VPS-US", port: 443 },
   "/jp": { host: "IP-OU-DOMINIO-VPS-JP", port: 443 },
   // "/de": { host: "IP-OU-DOMINIO-VPS-DE", port: 443 },
